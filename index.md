@@ -1,10 +1,11 @@
-# hellooow
-
-Just a hellow header :)
-
-![Vladimir from League Of Legends](https://github.com/user-attachments/assets/b0673fe1-071d-4d7e-9260-f33a0c752ecb)
+# HI!!
+ I'm **Ariz**, I'm 20, and I'm pretty interested in **WEB DEVELOPMENT** and **MUSIC**
+ 
+![Vladimir _ League of Legends](https://github.com/user-attachments/assets/6139ad90-4c6f-4ca9-8aad-336c1ab7ef86)
 
 - [x] Turn on GitHub Pages
+- [x] Learning Javascript
+- [x] Learning Css
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
 - [x] Listen Mattmaltese
